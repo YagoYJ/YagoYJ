@@ -5,6 +5,6 @@ I'm graduated in **Systems Analysis and Development** and I am passionate about 
 
 ***
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yagoyj&show_icons=true&theme=darcula)](https://github.com/yagoyj/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yagoyj&repo=colala&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=yagoyj&show_icons=true&theme=darcula)](https://github.com/yagoyj/github-readme-stats)
+[![Readme card](https://github-readme-stats.vercel.app/api/pin/?username=yagoyj&repo=colala&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoyj&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
