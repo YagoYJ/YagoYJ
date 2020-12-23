@@ -1,5 +1,7 @@
 # Hi there 👋
-## My name is **Yago Juan**. I'm a Frontend Developer from Fortaleza - CE, Brazil :palm_tree::sunrise:. I'm graduated in **Systems Analysis and Development** and I am passionate about Web Development
+## My name is **Yago Juan**.
+I'm a Frontend Developer from Fortaleza - CE, Brazil :palm_tree::sunrise:.
+I'm graduated in **Systems Analysis and Development** and I am passionate about Web Development
 
 ***
 
