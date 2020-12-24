@@ -1,4 +1,4 @@
-## My name is **Yago Juan**.
+## My name is **Yago Juan** <img src="https://pa1.narvii.com/6742/a44c3005865e034c9ecafdaceb4c8d3bf938d4ea_128.gif" alt="Emoji gif" width=20/>
 
 I'm a Frontend Developer from Fortaleza - CE, Brazil :palm_tree::sunrise:.
 
