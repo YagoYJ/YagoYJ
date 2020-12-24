@@ -8,9 +8,9 @@ I'm graduated in **Systems Analysis and Development** and I am passionate about 
 
 ## You can find me on:
 
-<a href="https://www.linkedin.com/in/yagoyj/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="Linkedin" width=30/> /in/yagoyj/</a>
+<a href="https://www.linkedin.com/in/yagoyj/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="Linkedin" width=30/> /in/yagoyj/</a>
 
-<img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="Gmail" width=30/> yagojuanyjskt@gmail.com
+<img src="https://icons.iconarchive.com/icons/dtafalonso/android-l/256/Gmail-icon.png" alt="Gmail" width=30/> yagojuanyjskt@gmail.com
 
 ---
 
