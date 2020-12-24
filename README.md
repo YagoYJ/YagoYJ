@@ -46,6 +46,9 @@ I'm graduated in **Systems Analysis and Development** and I am passionate about 
 ## My own projects
 
 [![Readme card](https://github-readme-stats.vercel.app/api/pin/?username=yagoyj&repo=colala&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Readme card](https://github-readme-stats.vercel.app/api/pin/?username=yagoyj&repo=minha-carteira&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Readme card](https://github-readme-stats.vercel.app/api/pin/?username=yagoyj&repo=calculation-training-generator&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Readme card](https://github-readme-stats.vercel.app/api/pin/?username=yagoyj&repo=list-of-names&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
