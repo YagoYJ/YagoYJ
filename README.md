@@ -10,7 +10,7 @@ I'm graduated in **Systems Analysis and Development** and I am passionate about 
 
 <a href="https://www.linkedin.com/in/yagoyj/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="Linkedin" width=30/> /in/yagoyj/</a>
 
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZdGKqZJXhQZFrPsWcBtqhwMpxcQLWtmrkbwPxmcrqWFWnjDFGbCkNQkWzjgCsnDvMdJfp" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="Gmail" width=30/> yagojuanyjskt@gmail.com</a>
+<img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="Gmail" width=30/> yagojuanyjskt@gmail.com
 
 ---
 
