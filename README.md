@@ -31,13 +31,21 @@ I'm graduated in **Systems Analysis and Development** and I am passionate about 
 
 <img src="https://4.bp.blogspot.com/-X7UPkOQjQuQ/WuHLUEM7SDI/AAAAAAAAAOY/rXGXSOfPP2ckF_cSOC3C5d3B_BhIgNcxACLcBGAs/s1600/mongodb%2B%25282%2529.png" alt="MongoDB" width=30/> MongoDB
 
+<img src="https://www.lightbase.io/img/products/icon_mysql.png" alt="MongoDB" width=30/> SQL
+
 ### Extras
 
 <img src="https://code.visualstudio.com/assets/favicon.ico" alt="VSCode" width=30/> VSCode
 
 <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/3d/ea/d9/3dead9aa-8fec-a442-0ab3-a9fd52699bf8/source/256x256bb.jpg" alt="Expo" width=30/> Expo
 
+<img src="https://lh3.googleusercontent.com/proxy/XeLkuSe20jkb6jrq77uyjE17AStexk0A_Ymgo9hJ-OZdP2TFvNqvSFvzNBDC-Z2EuJQf6zSHzSS2ppkMef-NosmB1ANhrnHQ5dzMOqxQV1A" alt="NPM" width=30/> NPM
+
+<img src="https://cdn.iconscout.com/icon/free/png-256/yarn-34-1174974.png" alt="NPM" width=30/> Yarn
+
 <img src="https://insomnia.rest/images/twitter-card-icon.png" alt="Insomnia" width=30/> Insomnia
+
+<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/237/square_256/figma-1-logo.png" alt="Insomnia" width=30/> Figma
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoyj&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
