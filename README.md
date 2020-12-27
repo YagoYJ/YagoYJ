@@ -39,7 +39,7 @@ I'm graduated in **Systems Analysis and Development** and I am passionate about 
 
 <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/3d/ea/d9/3dead9aa-8fec-a442-0ab3-a9fd52699bf8/source/256x256bb.jpg" alt="Expo" width=30/> Expo
 
-<img src="https://lh3.googleusercontent.com/proxy/XeLkuSe20jkb6jrq77uyjE17AStexk0A_Ymgo9hJ-OZdP2TFvNqvSFvzNBDC-Z2EuJQf6zSHzSS2ppkMef-NosmB1ANhrnHQ5dzMOqxQV1A" alt="NPM" width=30/> NPM
+<img src="https://www.cursosnafaixa.com.br/static/f12a204bdb67253b09bbe3cb6353c4c6/fdc48/npmlogo.png" alt="NPM" width=30/> NPM
 
 <img src="https://cdn.iconscout.com/icon/free/png-256/yarn-34-1174974.png" alt="NPM" width=30/> Yarn
 
