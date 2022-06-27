@@ -25,19 +25,6 @@ I'm graduated in **Systems Analysis and Development** and I am passionate about 
 
 <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="NodeJS" width=30/> NodeJS
 
-### Extras
-
-<img src="https://code.visualstudio.com/assets/favicon.ico" alt="VSCode" width=30/> VSCode
-
-<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/3d/ea/d9/3dead9aa-8fec-a442-0ab3-a9fd52699bf8/source/256x256bb.jpg" alt="Expo" width=30/> Expo
-
-<img src="https://www.cursosnafaixa.com.br/static/f12a204bdb67253b09bbe3cb6353c4c6/fdc48/npmlogo.png" alt="NPM" width=30/> NPM
-
-<img src="https://cdn.iconscout.com/icon/free/png-256/yarn-34-1174974.png" alt="NPM" width=30/> Yarn
-
-<img src="https://insomnia.rest/images/twitter-card-icon.png" alt="Insomnia" width=30/> Insomnia
-
-<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/237/square_256/figma-1-logo.png" alt="Insomnia" width=30/> Figma
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoyj&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
