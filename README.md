@@ -8,7 +8,7 @@ I'm graduated in **Systems Analysis and Development** and I am passionate about 
 
 ## You can find me on:
 
-<a href="https://www.linkedin.com/in/yagoyj/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="Linkedin" width=30/> /in/yagoyj/</a>
+<a href="https://www.linkedin.com/in/yagoyj/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Linkedin" width=30/> /in/yagoyj/</a>
 
 <img src="https://icons.iconarchive.com/icons/dtafalonso/android-l/256/Gmail-icon.png" alt="Gmail" width=30/> yagojuanyjskt@gmail.com
 
@@ -24,14 +24,6 @@ I'm graduated in **Systems Analysis and Development** and I am passionate about 
 <img src="https://gitconnected.com/public/images/tutorials/svg/typescript.svg" alt="TypeScript" width=30/> TypeScript
 
 <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="NodeJS" width=30/> NodeJS
-
-<img src="https://terminalroot.com.br/assets/img/html/html5.png" alt="HTML" width=30/> HTML
-
-<img src="https://terminalroot.com.br/assets/img/css/css.png" alt="CSS" width=30/> CSS
-
-<img src="https://4.bp.blogspot.com/-X7UPkOQjQuQ/WuHLUEM7SDI/AAAAAAAAAOY/rXGXSOfPP2ckF_cSOC3C5d3B_BhIgNcxACLcBGAs/s1600/mongodb%2B%25282%2529.png" alt="MongoDB" width=30/> MongoDB
-
-<img src="https://www.lightbase.io/img/products/icon_mysql.png" alt="MongoDB" width=30/> SQL
 
 ### Extras
 
