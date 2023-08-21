@@ -10,8 +10,6 @@ I'm graduated in **Systems Analysis and Development** and I am passionate about 
 
 <a href="https://www.linkedin.com/in/yagoyj/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Linkedin" width=30/> /in/yagoyj/</a>
 
-<img src="https://icons.iconarchive.com/icons/dtafalonso/android-l/256/Gmail-icon.png" alt="Gmail" width=30/> yagojuanyjskt@gmail.com
-
 ---
 
 ## My Stack
