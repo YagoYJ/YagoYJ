@@ -8,7 +8,7 @@ I have nearly 3 years of experience in software engineering, having built large 
 <div style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='40' height='40' />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='40' height='40' />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width='40' height='40' />&nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/333609/tailwind-css.svg" width='40' height='40' />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width='40' height='40' />&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width='40' height='40' />&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/radix-ui.svg" width='40' height='40' />&nbsp;&nbsp;
